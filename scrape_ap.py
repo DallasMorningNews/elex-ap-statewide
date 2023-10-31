@@ -44,7 +44,7 @@ for item in root:
         if race not in results:
             newdict = {
                 "ballots cast": "0",
-                "precints reporting": "0",
+                "precincts reporting": "0",
                 "precincts total": "0",
                 "registered voters": "0",
                 "choices": {}
